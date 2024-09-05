@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/desmos.png
 title: "Polynomial Solver and Root Finder"
 date: 2023-08-02
 published: true

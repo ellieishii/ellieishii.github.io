@@ -4,14 +4,14 @@ type: essay
 title: "Building Fluency in the Language of Code on TypeScript "
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
-published: false
+published: true
 labels:
   - TypeScript
   - New Langauge
   - Athletic Software Engineering
 ---
 
-<img src="images/typescript.png" width="300" />
+<img src="images/typescriptessay.png" width="300" />
 
 
 ## Learning Programming as a New Language

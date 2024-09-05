@@ -20,7 +20,7 @@ This project aims at solving for the y-values and roots of the user-input based 
 
 Through this project, not only did I learn coding, but also gained a deeper understanding of incremental development approach, pseudo code, and flowchart. This approach significantly helped me ensure the foundation of this code was strong, which was crucial for identifying issues early and debugging the code effectively. The pseudo code and flowchart played a key role in keeping everything organized and guiding me in the right direction to complete the project. Additionally, breaking down the problem step by step made the entire process manageable to me. This approach taught me valuable lessons that I still continue to apply to future projects. 
 
-**<Flow Chart>**
+**Flow Chart**
 img/flowchart.png
 
 You can learn more at the [Polynomial Solver and Root Finder](https://manoa.hawaii.edu/news/article.php?aId=2857).

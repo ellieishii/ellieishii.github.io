@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/desmos.png
 title: "Polynomial Solver and Root Finder"
-date: 2023-08-02
+date: 2023-08-01
 published: true
 labels:
   - Calculator
@@ -21,15 +21,14 @@ This project aims at solving for the y-values and roots of the user-input based 
 Through this project, not only did I learn coding, but also gained a deeper understanding of incremental development approach, pseudocode, and flowchart. This approach significantly helped me ensure the foundation of this code was strong, which was crucial for identifying issues early and debugging the code effectively. The pseudocode and flowchart played a key role in keeping everything organized and guiding me in the right direction to complete the project. Additionally, breaking down the problem step by step made the entire process manageable to me. This approach taught me valuable lessons that I still continue to apply to future projects. 
 
 
-
+**Program Output**
 <img width="607" alt="output" src="https://github.com/user-attachments/assets/9fc8ef5f-cfbb-4db4-ad53-1fb9130c8b3b">
-
-
-<img width="1069" alt="flowchart" src="https://github.com/user-attachments/assets/832b4356-7cce-4f0f-836b-d69207405711">
 
 
 <img width="605" alt="pseudocode" src="https://github.com/user-attachments/assets/14dfb029-609a-48f3-893b-7cec3a683374">
 
 
+<img width="1069" alt="flowchart" src="https://github.com/user-attachments/assets/832b4356-7cce-4f0f-836b-d69207405711">
 
-You can learn more at the [Polynomial Solver and Root Finder](https://manoa.hawaii.edu/news/article.php?aId=2857).
+
+You can learn more at the [Polynomial Solver and Root Finder](file:///Users/ellieishii/Desktop/2022F%20-2024S/EE%20160/Project%201/Project1_Report.pdf).

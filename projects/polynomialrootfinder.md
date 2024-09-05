@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Polynomial Solver and Root Finder"
 date: 2023-08-02
-published: false
+published: true
 labels:
   - Calculator
   - C

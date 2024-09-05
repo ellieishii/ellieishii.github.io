@@ -28,4 +28,8 @@ Through this project, not only did I learn coding, but also gained a deeper unde
 <img width="1069" alt="flowchart" src="https://github.com/user-attachments/assets/832b4356-7cce-4f0f-836b-d69207405711">
 
 
+<img width="605" alt="pseudocode" src="https://github.com/user-attachments/assets/14dfb029-609a-48f3-893b-7cec3a683374">
+
+
+
 You can learn more at the [Polynomial Solver and Root Finder](https://manoa.hawaii.edu/news/article.php?aId=2857).

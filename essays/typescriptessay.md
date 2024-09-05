@@ -4,14 +4,15 @@ type: essay
 title: "Building Fluency in the Language of Code on TypeScript "
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
-published: true
+published: false
 labels:
   - TypeScript
   - New Langauge
   - Athletic Software Engineering
 ---
 
-![typescriptessay](https://github.com/user-attachments/assets/944430ea-e67f-4b9a-8669-c4165c5abe90)
+<img src="images/typescript.png" width="300" />
+
 
 ## Learning Programming as a New Language
 Learning new programming languages is similar to learning new spoken languages, at least in my experience. It takes a lot of time and practice to become fluent, and it’s easy to lose proficiency if you don’t use it frequently enough. I often find similarities between learning a new programming language and mastering a foreign language. Both experiences require understanding new syntax, concepts, and structures. As someone with some experience in C and Java but completely new to TypeScript, I see it as an entirely new journey, though it doesn’t seem too intimidating. From a software engineering perspective, I think TypeScript can make coding easier once you become accustomed to it. 

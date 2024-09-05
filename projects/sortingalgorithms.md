@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/desmos.png
+image: img/sortingalgorithms.png
 title: "Sorting Algorithms"
 date: 2024-02-03
-published: false
+published: true
 labels:
   - Sorting
   - Algorithm

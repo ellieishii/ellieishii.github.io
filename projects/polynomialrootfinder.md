@@ -22,19 +22,25 @@ Through this project, not only did I learn coding, but also gained a deeper unde
 
 Here is the code that calculates the y-values of the user-input based function. The calculated y-values are then passed down to both 'secant.c' and 'project1.c':
 
+
+
 #include <math.h>
 
 // calculate F(x) by plugging a,b,c,d,e,f values and x into the polynomial function and return F(x)
 
 double F(double a, double b, double c, double d, double e, double f, double x) {
+       
+        
         return a+b*x+c*pow(x,2)+d*pow(x,3)+e*pow(x,4)+f*pow(x,5);
+
+
 }
 
-・
-・
-・
 
 **Program Output**
+
+
+
 <img width="607" alt="output" src="https://github.com/user-attachments/assets/9fc8ef5f-cfbb-4db4-ad53-1fb9130c8b3b">
 
 

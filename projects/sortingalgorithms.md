@@ -47,10 +47,6 @@ static String selectUnique(char[] a) {
   
 	}
 
-
 <img width="400px" class="rounded float-start pe-4" src="../img/sorting.jpg">
 
-
- 
-
-You can learn more here at the [Sorting Algorithms]([https://manoa.hawaii.edu/news/article.php?aId=2857](https://github.com/ellieishii/Sorting_Algorithms/tree/main)).
+You can learn more here at the [Sorting Algorithms](https://github.com/ellieishii/Sorting_Algorithms).

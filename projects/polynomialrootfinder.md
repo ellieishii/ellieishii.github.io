@@ -20,6 +20,15 @@ This project aims at solving for the y-values and roots of the user-input based 
 
 Through this project, not only did I learn coding, but also gained a deeper understanding of incremental development approach, pseudocode, and flowchart. This approach significantly helped me ensure the foundation of this code was strong, which was crucial for identifying issues early and debugging the code effectively. The pseudocode and flowchart played a key role in keeping everything organized and guiding me in the right direction to complete the project. Additionally, breaking down the problem step by step made the entire process manageable to me. This approach taught me valuable lessons that I still continue to apply to future projects. 
 
+Here is the code that calculates the y-values of the user-input based function. The calculated y-values are then passed down to both 'secant.c' and 'project1.c':
+
+#include <math.h>
+
+// calculate F(x) by plugging a,b,c,d,e,f values and x into the polynomial function and return F(x)
+
+double F(double a, double b, double c, double d, double e, double f, double x) {
+        return a+b*x+c*pow(x,2)+d*pow(x,3)+e*pow(x,4)+f*pow(x,5);
+}
 
 
 **Program Output**

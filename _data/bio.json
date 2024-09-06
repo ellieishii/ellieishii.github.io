@@ -7,11 +7,11 @@
     "phone": "",
     "website": "https://ellieishii.github.io",
     "summary": "I am studying for a B.A. in Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026. As of now, I am working towards getting into the Web Developement field.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "ellieishii", "url": "http://github.com/ellieishii" },
       { "network": "linkedin", "username": "ellieishii", "url": "https://www.linkedin.com/in/ellie-ishii-8a0043326/"},
-      { "network": "email", "username": "elliei", "email": "elliei@gmail.com" },
+      { "network": "", "username": "", "email": "" },
       { "network": "", "username": "", "url": "" }
     ]
   },
@@ -76,7 +76,7 @@
       "title": "Dean's List",
       "date": "2022 - Present",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Acknowledgment for students who have attained a semester GPA of 3.5 or higher."
+      "summary": "Recognition for students who have achieved a semester GPA of 3.5 or higher."
     }
   ],
   "references": [

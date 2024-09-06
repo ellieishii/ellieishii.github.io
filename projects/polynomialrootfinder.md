@@ -30,6 +30,9 @@ double F(double a, double b, double c, double d, double e, double f, double x) {
         return a+b*x+c*pow(x,2)+d*pow(x,3)+e*pow(x,4)+f*pow(x,5);
 }
 
+・
+・
+・
 
 **Program Output**
 <img width="607" alt="output" src="https://github.com/user-attachments/assets/9fc8ef5f-cfbb-4db4-ad53-1fb9130c8b3b">

@@ -33,7 +33,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Information and Computer Sciences (expected Spring, 2018)",
+      "area": "Information and Computer Sciences (expected Spring, 2026)",
       "studyType": "B.A.",
       "startDate": "2022",
       "endDate": "Present",
@@ -41,38 +41,14 @@
       ]
     }
   ],
-  "work": [
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
   "activities": [
     {
-      "organization": "",
+      "organization": "Member of the PANDA (Programming and Algorithms) Club",
       "website": "",
       "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2023",
+      "endDate": "2024",
+      "summary": "Collaborated with peers in PANDA to strengthen problem-solving skills through weekly coding challenges",
       "highlights": [
         ""
       ]
@@ -92,7 +68,7 @@
   "awards": [
     {
       "title": "University of Hawaii Manoa Provost Achievement Scholarship",
-      "date": "2022-Present",
+      "date": "2022 - Present",
       "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships for incoming Hawai‘i resident freshmen with a minimum 3.7 GPA, demonstrating academic achievement or creative work and involvement in academic, co-curricular, and community service activities."
     },

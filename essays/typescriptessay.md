@@ -11,7 +11,7 @@ labels:
   - Athletic Software Engineering
 ---
 
-<img src="images/typescriptessay.png" width="300" />
+<img src="images/typescriptessay.png" width="100" />
 
 
 ## Learning Programming as a New Language

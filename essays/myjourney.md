@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-<img src="images/webdevelopment.png" width="200" />
+<img src="images/webdevelopment.png" width="100" />
 
 
 ## Discovering My Interest

@@ -18,4 +18,28 @@ For numbers smaller than its base, the function can immediately return a string 
 
 This project taught me how implementing recursion can simplify the process of converting numbers to different bases. Additionally, I gained experience working with different bases like ternary and hexadecimal, which helped me deepen my understanding of number systems. Furthermore, I learned that the Fibonacci sequence has an exponential time complexity based on the displayed runtime data. By analyzing the performance of different algorithms, I also recognized the importance of optimization. Optimizing can improve the efficiency of the program, making it better suited for larger inputs. 
 
+Here is the fib3 function that calculates the nth term in a sequence where each term is the sum of the three preceding terms. 
+
+
+public static int fib3(int n) {
+	
+  if (n < 3) {
+		  
+   return 1;
+   
+		} else {
+  
+			return fib3(n - 1) + fib3(n - 2) + fib3(n - 3);
+   
+		}
+  
+	}
+
+
+ 
+
+![image](https://github.com/user-attachments/assets/3634f00e-0842-4e2e-8c26-3ffaf4ed6d4d)
+
+
+
 You can learn more here at the [Recursive_Methods](https://github.com/ellieishii/Recursive_Methods).

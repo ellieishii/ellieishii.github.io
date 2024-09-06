@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Building Fluency in the Language of Code on TypeScript "
+title: "Building Fluency in the Language of Code"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
 published: true

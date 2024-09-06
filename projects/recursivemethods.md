@@ -18,4 +18,4 @@ For numbers smaller than its base, the function can immediately return a string 
 
 This project taught me how implementing recursion can simplify the process of converting numbers to different bases. Additionally, I gained experience working with different bases like ternary and hexadecimal, which helped me deepen my understanding of number systems. Furthermore, I learned that the Fibonacci sequence has an exponential time complexity based on the displayed runtime data. By analyzing the performance of different algorithms, I also recognized the importance of optimization. Optimizing can improve the efficiency of the program, making it better suited for larger inputs. 
 
-You can learn more here at the [Recursive_Methods](https://github.com/ellieishii/Polynomial_Solver_and_Root_Finder).
+You can learn more here at the [Recursive_Methods]([https://github.com/ellieishii/Polynomial_Solver_and_Root_Finder](https://github.com/ellieishii/Recursive_Methods)).

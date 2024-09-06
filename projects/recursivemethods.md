@@ -4,7 +4,7 @@ type: project
 image: img/recursivemethods.png
 title: "Recursive Methods for Number System Conversion and Fibonacci Sequence Analysis"
 date: 2024-02-17
-published: true
+published: false
 labels:
   - Recursion
   - Rumtime
@@ -38,7 +38,7 @@ public static int fib3(int n) {
 
  
 
-![image](https://github.com/user-attachments/assets/3634f00e-0842-4e2e-8c26-3ffaf4ed6d4d)
+<img width="400px" class="rounded float-start pe-4" src="../img/fibonacci.png">
 
 
 

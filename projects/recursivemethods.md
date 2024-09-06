@@ -4,7 +4,7 @@ type: project
 image: img/recursivemethods.png
 title: "Recursive Methods for Number System Conversion and Fibonacci Sequence Analysis"
 date: 2024-02-17
-published: false
+published: true
 labels:
   - Recursion
   - Rumtime

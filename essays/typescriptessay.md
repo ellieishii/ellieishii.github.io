@@ -13,7 +13,6 @@ labels:
 
 <img width="400px" class="rounded float-start pe-4" src="../img/typescriptessay.png">
 
-
 ## Learning Programming as a New Language
 Learning new programming languages is similar to learning new spoken languages, at least in my experience. It takes a lot of time and practice to become fluent, and it’s easy to lose proficiency if you don’t use it frequently enough. I often find similarities between learning a new programming language and mastering a foreign language. Both experiences require understanding new syntax, concepts, and structures. As someone with some experience in C and Java but completely new to TypeScript, I see it as an entirely new journey, though it doesn’t seem too intimidating. From a software engineering perspective, I think TypeScript can make coding easier once you become accustomed to it. 
 

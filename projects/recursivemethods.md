@@ -38,7 +38,7 @@ public static int fib3(int n) {
 
  
 
-<img width="400px" class="rounded float-start pe-4" src="../img/fibonacci.png">
+<img width="400px" class="rounded pe-4" src="../img/fibonacci.png">
 
 
 

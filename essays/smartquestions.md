@@ -13,6 +13,7 @@ labels:
 
 <img width="400px" class="rounded float-start pe-4" src="../img/smartquestions.jpg">
 
+
 ## Upvoted Questions vs. Downvoted Questions
 
 As a software engineering student, I often encounter problems that require debugging. Fortunately, there are sources like Stack Overflow available online, where I can find other people’s questions that may help me debug my code. One thing that always stands out to me when I visit the website is the ratings of the questions. Some questions get hundreds of upvotes, while others receive negative downvotes. Not only are the answers rated, but the questions themselves are as well. So, what causes such a huge difference in the way questions are rated?

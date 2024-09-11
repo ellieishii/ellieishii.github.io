@@ -50,4 +50,8 @@ double F(double a, double b, double c, double d, double e, double f, double x) {
 <img width="1069" alt="flowchart" src="https://github.com/user-attachments/assets/832b4356-7cce-4f0f-836b-d69207405711">
 
 
+
+
+
+
 You can learn more here at the [Polynomial Solver and Root Finder](https://github.com/ellieishii/Polynomial_Solver_and_Root_Finder).

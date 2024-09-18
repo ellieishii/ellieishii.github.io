@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Want Better Answers? Ask SMART"
+title: "Want Better Answers? Ask 'SMART' "
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-11
 published: true

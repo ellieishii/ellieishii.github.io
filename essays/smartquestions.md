@@ -31,4 +31,4 @@ Before asking someone a question, did you conduct any research on your own? Did 
 Learning how to ask “smart” questions is crucial because efficiency and effectiveness are essential in software engineering. From my experience, I’ve learned that the smarter the question, the better the answers you get. I’ve also realized that this principle of asking “smart” questions isn’t limited to coding—it applies to any topic.
 
 
-The next time you ask a question, make sure you’re asking it in a “smart” way to get the best possible results.
+## The next time you ask a question, make sure you’re asking it in a “smart” way to get the best possible results.

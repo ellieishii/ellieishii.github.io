@@ -37,7 +37,7 @@ private static String computeOutputs(double amount, double interest, double paym
 
 
 Example Output: 
-<img width="400px" class="rounded pe-4" src="../img/calculatoroutput.jpg">
+<img width="400px" class="rounded pe-4" src="../img/calculatoroutput.png">
 
 
 

@@ -4,7 +4,7 @@ type: project
 image: img/financialcalculator.png
 title: "Financial Calculator"
 date: 2024-01-20
-published: false
+published: true
 labels:
   - Calculator
   - Algorithm
@@ -34,7 +34,7 @@ private static String computeOutputs(double amount, double interest, double paym
 }
 
 
-<img width="400px" class="rounded pe-4" src="../img/calculator.png">
+<img width="400px" class="rounded pe-4" src="../img/calculator.jpg">
 
 
 

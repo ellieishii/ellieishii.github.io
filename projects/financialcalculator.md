@@ -41,7 +41,4 @@ Example Output:
 
 
 
-
-
-
-You can learn more here at the [Financial Calculator](https://github.com/ellieishii/Financial Calculator).
+You can learn more here at the [Financial Calculator](https://github.com/ellieishii/Financial_Calculator).

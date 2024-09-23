@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/sortingalgorithms.png
+image: img/financialcalculator.png
 title: "Financial Calculator"
 date: 2024-01-20
-published: true
+published: false
 labels:
   - Calculator
   - Algorithm
@@ -34,7 +34,7 @@ private static String computeOutputs(double amount, double interest, double paym
 }
 
 
-<img width="400px" class="rounded pe-4" src="../img/sorting.jpg">
+<img width="400px" class="rounded pe-4" src="../img/calculator.png">
 
 
 
@@ -44,9 +44,4 @@ private static String computeOutputs(double amount, double interest, double paym
 
 
 
-
-
-
-
-
-You can learn more here at the [Sorting Algorithms](https://github.com/ellieishii/Sorting_Algorithms).
+You can learn more here at the [Financial Calculator](https://github.com/ellieishii/Financial Calculator).

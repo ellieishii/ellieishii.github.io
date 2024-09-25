@@ -11,7 +11,7 @@ labels:
   - ESLint
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/beforeafter.jpg">
+<img width="570px" class="rounded float-start pe-4" src="../img/beforeafter.jpg">
 
 
 ##  Is Organization Really Necessary?
@@ -26,7 +26,7 @@ When I took ICS 111, Introduction to Computer Science I, following coding standa
 
 Is this the right amount of indentation? Are the brackets in the correct place? Checking every line of code for syntax errors can be time-consuming, especially when the code is long and complex. Then, I discovered ESLint, a tool that helps identify and fix issues in JavaScript code. It ensures that my code follows the coding standards in less than a second. After a week of using ESLint, I find it extremely helpful. The tool provides real-time feedback, pinpointing exactly where errors are located. Additionally, with the --fix flag, ESLint can automatically adjust non-breaking changes and formatting issues, saving time and effort. This not only helps me adhere to the standards without manually reviewing each line, but it also teaches me to write more structured, error-free code from the start.
 
-<img width="400px" class="rounded float-start pe-4" src="../img/badtypescript.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/badtypescript.png">
 
 ## Does ESLint Help Us Learn?
 

@@ -4,14 +4,14 @@ type: essay
 title: "Same Line or New Line? Organizing Code with ESLint"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-24
-published: false
+published: true
 labels:
   - Software Engineering
   - Organization
   - ESLint
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/smartquestions.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/beforeafter.jpg">
 
 
 ##  Is Organization Really Necessary?
@@ -25,6 +25,8 @@ When I took ICS 111, Introduction to Computer Science I, following coding standa
 ## ESLint: The Automatic Code Organizer
 
 Is this the right amount of indentation? Are the brackets in the correct place? Checking every line of code for syntax errors can be time-consuming, especially when the code is long and complex. Then, I discovered ESLint, a tool that helps identify and fix issues in JavaScript code. It ensures that my code follows the coding standards in less than a second. After a week of using ESLint, I find it extremely helpful. The tool provides real-time feedback, pinpointing exactly where errors are located. Additionally, with the --fix flag, ESLint can automatically adjust non-breaking changes and formatting issues, saving time and effort. This not only helps me adhere to the standards without manually reviewing each line, but it also teaches me to write more structured, error-free code from the start.
+
+<img width="400px" class="rounded float-start pe-4" src="../img/badtypescript.png">
 
 ## Does ESLint Help Us Learn?
 

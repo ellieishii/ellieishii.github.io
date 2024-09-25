@@ -11,7 +11,7 @@ labels:
   - ESLint
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/beforeafter.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/beforeafter.jpg">
 
 
 ##  Is Organization Really Necessary?

@@ -33,6 +33,8 @@ As I gained more hands-on experience as a web developer, I realized the importan
 
 <br><br><br>
 
+<div style="clear: both;"></div>
+
 **Bootstrap**
 
 <img width="400px" class="rounded float-start pe-4" src="../img/ui1.png"> <img width="400px" class="rounded float-start pe-4" src="../img/ui2.png">

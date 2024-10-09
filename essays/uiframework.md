@@ -25,32 +25,24 @@ Then, we began learning how to use User Interface (UI) frameworks like Semantic 
 ## Simplifying Responsiveness with Bootstrap
 As I gained more hands-on experience as a web developer, I realized the importance of website responsiveness. A website needs to adapt to different screen sizes, depending on the users’ devices, such as phones, tablets, or laptops. With raw HTML and CSS, I would have to write my own media queries to adjust the layout for each screen size, which requires a lot of work. However, Bootstrap makes it much easier to build responsive websites, as it includes a grid system that adjusts automatically. 
 
-
+<br><br>
 
 **Raw HTML and CSS** 
-
-
+<br>
 <img width="400px" class="rounded float-start pe-4" src="../img/rawhtmlandcss1.png"> <img width="400px" class="rounded float-start pe-4" src="../img/rawhtmlandcss2.png"> 
 
-
-
-
-
-
+<br><br>
 
 **Bootstrap**
-
+<br>
 
 <img width="400px" class="rounded float-start pe-4" src="../img/ui1.png"> <img width="400px" class="rounded float-start pe-4" src="../img/ui2.png">
 
-
-
-
-
-
+<br>
 
 The images on the left show what they look like in their default size. However, the images on the right illustrate what happens when the display is stretched. The column layout created with raw HTML and CSS becomes uneven, resulting in an awkward design. In contrast, the layout using Bootstrap stays consistent and well-structured due to its responsive design capabilities, which ensure that the columns remain properly aligned and maintain a neat appearance even when resized.
 
+<br>
 
 ## UI Frameworks: A Developer’s Best Friend ##
 Although the terminology in UI frameworks can be confusing at first, they are powerful tools that are worth learning. They streamline the process of creating visually appealing, responsive, and user-friendly interfaces. Why not take advantage of these cool tools, like UI frameworks, to make your development process more efficient and enjoyable? With frameworks like Bootstrap or Semantic UI, you can focus more on building great features rather than worrying about every detail of styling from scratch.

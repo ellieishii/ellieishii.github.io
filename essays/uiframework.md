@@ -4,7 +4,7 @@ type: essay
 title: "Design from Scratch or Use Pre-Made Magic?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-09
-published: false
+published: true
 labels:
   - Web Developer
   - Learning

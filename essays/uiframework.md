@@ -34,10 +34,20 @@ As I gained more hands-on experience as a web developer, I realized the importan
 
 
 
+
+
+
+
 **Bootstrap**
 
 
 <img width="400px" class="rounded float-start pe-4" src="../img/ui1.png"> <img width="400px" class="rounded float-start pe-4" src="../img/ui2.png">
+
+
+
+
+
+
 
 The images on the left show what they look like in their default size. However, the images on the right illustrate what happens when the display is stretched. The column layout created with raw HTML and CSS becomes uneven, resulting in an awkward design. In contrast, the layout using Bootstrap stays consistent and well-structured due to its responsive design capabilities, which ensure that the columns remain properly aligned and maintain a neat appearance even when resized.
 

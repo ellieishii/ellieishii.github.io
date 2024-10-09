@@ -4,7 +4,7 @@ type: essay
 title: "Design from Scratch or Use Pre-Made Magic?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-09
-published: true
+published: false
 labels:
   - Web Developer
   - Learning
@@ -12,8 +12,6 @@ labels:
   - HTML
   - CSS
 ---
-
-<img width="400px" class="rounded float-start pe-4" src="../img/webdevelopment.jpg">
 
 ## What Makes a Website Engaging?
 What kind of website makes you want to keep scrolling? Is it a simple, plain website or a well-detailed one? I definitely prefer well-detailed websites—who wants to stay on a boring site for long? When creating a website, design plays a crucial role in attracting users. Even if you have an outstanding product or content, a poorly designed website may prevent people from engaging with it.
@@ -26,3 +24,6 @@ Then, we began learning how to use User Interface (UI) frameworks like Semantic 
 
 ## Simplifying Responsiveness with Bootstrap
 As I gained more hands-on experience as a web developer, I realized the importance of website responsiveness. A website needs to adapt to different screen sizes, depending on the users’ devices, such as phones, tablets, or laptops. With raw HTML and CSS, I would have to write my own media queries to adjust the layout for each screen size, which requires a lot of work. However, Bootstrap makes it much easier to build responsive websites, as it includes a grid system that adjusts automatically. Although the terminology in UI frameworks can be confusing at first, they are powerful tools that are worth learning. Why not take advantage of these cool tools, like UI frameworks?
+
+<img width="400px" class="rounded float-start pe-4" src="../img/webdevelopment.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/webdevelopment.jpg">

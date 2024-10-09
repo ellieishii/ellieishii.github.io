@@ -25,5 +25,5 @@ Then, we began learning how to use User Interface (UI) frameworks like Semantic 
 ## Simplifying Responsiveness with Bootstrap
 As I gained more hands-on experience as a web developer, I realized the importance of website responsiveness. A website needs to adapt to different screen sizes, depending on the users’ devices, such as phones, tablets, or laptops. With raw HTML and CSS, I would have to write my own media queries to adjust the layout for each screen size, which requires a lot of work. However, Bootstrap makes it much easier to build responsive websites, as it includes a grid system that adjusts automatically. Although the terminology in UI frameworks can be confusing at first, they are powerful tools that are worth learning. Why not take advantage of these cool tools, like UI frameworks?
 
-<img width="400px" class="rounded float-start pe-4" src="../img/webdevelopment.jpg">
-<img width="400px" class="rounded float-start pe-4" src="../img/webdevelopment.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/rawhtmlandcss.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/uiframework.png">

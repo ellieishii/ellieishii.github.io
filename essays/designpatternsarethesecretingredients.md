@@ -23,7 +23,7 @@ In software engineering, design patterns are like recipes. They’re not strict 
 
 ## Efficient Systems Built with Patterns
 
-In the project I’m currently working on, my team is building a secondhand textbook marketplace. To create a dynamic and responsive system, we implemented several design patterns, including the Observer Pattern. This pattern allows multiple components (observers) to "watch" and respond to changes in a central source (the subject), ensuring that all relevant parts of the system stay synchronized. For instance, when a book’s approval status changes in the backend, all connected clients are instantly notified via a real-time notification system. This ensures that users always see the most up-to-date information. The Observer Pattern also helps maintain a clean separation between the backend logic, which updates the data, and the frontend, which displays it. This separation makes our system more scalable, easier to maintain, and capable of handling future growth efficiently.
+In our secondhand textbook marketplace project, we implemented the Observer Pattern to build a dynamic and responsive system. This pattern allows multiple components (observers) to “watch” and react to changes in a central source (the subject). For example, when a book’s approval status changes in the backend, all connected clients are instantly notified through a real-time notification system. This ensures that users always see the most up-to-date information without manual refreshes. By separating backend logic (data updates) from frontend logic (data display), the Observer Pattern makes our system scalable, maintainable, and well-prepared for future growth.
 
 ## Debugging Code and Cheesecake
 

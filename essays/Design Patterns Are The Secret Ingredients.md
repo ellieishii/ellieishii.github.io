@@ -35,3 +35,5 @@ Just like following a recipe helps me create a delicious meal, using design patt
 
 Want your Earl Grey chiffon cake to have a stronger tea flavor? Adjust the recipe to steep the tea longer or use more leaves. In the same way, design patterns allow you to tweak and customize your application to meet specific needs while keeping the overall structure intact. In both cooking and coding, these structured frameworks are what turn creative ideas into reliable results. Design patterns make solving problems feel less intimidating, allowing developers to focus on building something truly innovative and effective.
 
+<br/><br/><br/>
+

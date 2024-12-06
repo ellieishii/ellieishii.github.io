@@ -4,7 +4,7 @@ type: essay
 title: "Design Patterns are the Secret Ingredients"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-05
-published: false
+published: true
 labels:
   - Software Engineering
   - Design Patterns

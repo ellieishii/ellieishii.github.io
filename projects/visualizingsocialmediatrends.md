@@ -16,8 +16,6 @@ summary: "Transforming social media data into interactive insights with dynamic 
 
 ## Visualizing Word Frequency Trends in Social Media Posts
 
-<img width="350px" class="float-start pe-4" src="../img/wordcloud.png">
-
 In this project, the goal was to create a dynamic word cloud visualization of the most commonly used words in social media posts, filtered by specific attributes such as keywords, age, gender, and region. The system uses Python and Flask, incorporating key libraries like WordCloud for visualization and regular expressions for text preprocessing. The data structure used to manage word frequencies is a hashmap (dictionary), which efficiently counts word occurrences. Additionally, the system allows users to apply filters based on post attributes, making the word cloud generation more relevant to specific criteria. The project displays two word clouds: one showing the initial word cloud with all posts and the other showing a filtered word cloud, allowing users to compare the overall word distribution versus the distribution after applying specific filters. By combining filtering, preprocessing, and efficient data structures, this solution processes text data in a scalable and interactive manner, making it suitable for handling large datasets of posts.
 
 

@@ -27,7 +27,7 @@ Beyond web development, I can see myself applying Agile approaches to projects s
 
 ## Tracking Progress: The Importance of Configuration Management
 
-<img width="350px" class="rounded float-start pe-4" src="../img/organizing.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/organizing.png">
 
 At first, Git and GitHub seemed like simple tools for saving versions of my code, nothing more than a safety net in case something went wrong. However, as I worked on projects throughout the course, I realized Configuration Management is so much more. It’s about systematically handling changes to ensure consistency, reliability, and smooth collaboration. Git tracks every change, and GitHub provides a platform to organize tasks, track issues, and streamline teamwork, making projects clearer and more manageable. Features like branching and merging proved incredibly helpful. Working on individual branches allowed me to experiment freely without worrying about breaking the main codebase. Once I was satisfied with the results, merging my changes back into the main branch was seamless and rewarding. This structured approach not only simplified project organization but also improved collaboration with my teammates. 
 

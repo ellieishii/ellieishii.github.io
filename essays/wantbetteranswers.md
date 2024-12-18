@@ -11,7 +11,7 @@ labels:
   - Stack Overflow
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/smartquestions.jpg">
+<img width="400px" class="float-start pe-4" src="../img/smartquestions.jpg">
 
 
 ## Upvoted Questions vs. Downvoted Questions

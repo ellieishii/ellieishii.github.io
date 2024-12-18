@@ -17,7 +17,7 @@ summary: "A platform for students to buy, sell, and trade textbooks affordably."
 
 In the University of Hawaii community, students often face challenges in acquiring textbooks affordably and efficiently. [TextSwap](https://manoa-textswap.vercel.app/) was developed as a solution to address these challenges by providing an efficient and user-friendly platform for students to buy, sell, and trade textbooks with one another.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/TextSwapLogo.png">
+<img width="350px" class="rounded float-start pe-4" src="../img/TextSwapLanding.png">
 
 Our goal was to create a user-friendly, responsive, and visually appealing website that empowers students to connect and facilitate textbook exchanges seamlessly. The project utilized modern web technologies, including Next.js, React, Bootstrap 5, and GitHub Hosting, to build an interactive and intuitive platform. The result was [TextSwap](https://manoa-textswap.vercel.app/), a reliable and powerful tool designed to enhance student collaboration and reduce textbook expenses.
 

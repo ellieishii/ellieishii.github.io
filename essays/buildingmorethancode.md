@@ -11,7 +11,7 @@ labels:
   - Reflection
 ---
 
-<img width="350px" class="rounded float-start pe-4" src="../img/groupwork.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/groupwork.png">
 
 ## My Journey in Software Engineering
 

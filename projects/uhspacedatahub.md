@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/HEX.png
-title: "HACC 2024: UHSpace Data Hub"
+title: "UHSpace Data Hub"
 date: 2024
 published: true
 labels:
-  - HACC
-  - Hackathon
+  - Government 
   - Open Data
+  - HACC
 summary: "Unlocking Hawaii's Solutions for Personalized Analytics and Collaborative Engagement"
 ---
 

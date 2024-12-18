@@ -12,11 +12,11 @@ labels:
 summary: "Unlocking Hawaii's Solutions for Personalized Analytics and Collaborative Engagement"
 ---
 
-<br/><br/>
+<br/>
 
 ## HACC and HEX: A Journey of Innovation
 
-<img width="200px" class="rounded float-start pe-4" src="../img/HACC.png">
+<img width="350px" class="float-start pe-4" src="../img/UHSpaceLanding.png">
 
 [The Hawaii Annual Coding Challenge (HACC)](https://hacc.hawaii.gov/) is an annual hackathon hosted by the state of Hawaii to bring together developers, designers, and innovators to address pressing local issues through technology. The event fosters community engagement, collaboration, and innovation, enabling participants to create impactful solutions to real-world challenges. HACC serves as a platform for individuals to contribute to Hawaii’s growth by leveraging their technical skills and creativity.
 
@@ -54,6 +54,9 @@ In this project, I was responsible for the user interface (UI), focusing on crea
 The redesigned UHSpace Data Hub platform has significantly improved access to Hawaii’s open data, making it actionable and engaging for individuals, organizations, and policymakers. By integrating advanced tools and creating a collaborative environment, HEX addresses community needs effectively while fostering innovation. In conclusion, UHSpace Data Hub reflects the spirit of HACC by merging innovation with community service. Through our efforts, we placed second in the competition, showcasing the impact of our work. Our website demonstrates how user-focused design and advanced technology can create meaningful change, setting a new standard for open data platforms in Hawaii.
 
 
+## UHSpace Preview
+
+<iframe src="https://uhspace.org/" width="100%" height="600px" frameborder="0" title="HEX"></iframe>
 
 <br/>
 

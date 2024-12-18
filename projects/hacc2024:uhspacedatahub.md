@@ -51,7 +51,7 @@ In this project, I was responsible for the user interface (UI), focusing on crea
 The redesigned HEX platform has significantly improved access to Hawaii’s open data, making it actionable and engaging for individuals, organizations, and policymakers. By integrating advanced tools and creating a collaborative environment, HEX addresses community needs effectively while fostering innovation. In conclusion, HEX reflects the spirit of HACC by merging innovation with community service. Through our efforts, we placed second in the competition, showcasing the impact of our work. HEX demonstrates how user-focused design and advanced technology can create meaningful change, setting a new standard for open data platforms in Hawaii.
 
 
-<iframe src="https://uhspace.org/" width="100%" height="600px" frameborder="0" title="HEX"></iframe>
+
 
 
 <br/>

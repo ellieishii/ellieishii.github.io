@@ -13,9 +13,9 @@ summary: "Unlocking Hawaii's Solutions for Personalized Analytics and Collaborat
 ---
 
 
-<img width="200px" class="rounded float-start pe-4" src="../img/HACC.png">
-
 ## HACC and HEX: A Journey of Innovation
+
+<img width="200px" class="rounded float-start pe-4" src="../img/HACC.png">
 
 [The Hawaii Annual Coding Challenge (HACC)](https://hacc.hawaii.gov/) is an annual hackathon hosted by the state of Hawaii to bring together developers, designers, and innovators to address pressing local issues through technology. The event fosters community engagement, collaboration, and innovation, enabling participants to create impactful solutions to real-world challenges. HACC serves as a platform for individuals to contribute to Hawaii’s growth by leveraging their technical skills and creativity.
 

@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/webdevelopment.jpg">
+<img width="400px" class="float-start pe-4" src="../img/webdevelopment.jpg">
 
 ## Discovering My Interest
 Software engineering and web development have always captivated my interest due to their combination of creativity with analytical problem-solving. Growing up, I spent a lot of time with my grandparents, who owned small businesses. Whenever I visited them, I would always stop by their stores before going to their home, as they were my favorite places. Helping them with technology played a significant role in sparking my interest in these fields and encouraging my creativity. Without these early experiences, I wouldn’t have discovered my interest in them.

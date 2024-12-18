@@ -16,7 +16,7 @@ summary: "A platform for students to buy, sell, and trade textbooks affordably."
 
 ## Affordable Textbooks for UH Students
 
-<img width="300px" class="float-start pe-4" style="border-radius: 20px;" src="../img/TextSwapLanding.png">
+<img width="300px" class="float-start pe-4" src="../img/TextSwapLanding.png">
 
 In the University of Hawaii community, students often face challenges in acquiring textbooks affordably and efficiently. [TextSwap](https://manoa-textswap.vercel.app/) was developed as a solution to address these challenges by providing an efficient and user-friendly platform for students to buy, sell, and trade textbooks with one another.
 
@@ -58,7 +58,7 @@ TextSwap addresses a critical need within the UH Manoa community by providing a 
 
 ## TextSwap Preview 
 
-<iframe src="https://manoa-textswap.vercel.app/" width="100%" height="500px" frameborder="0" title="TextSwap"></iframe>
+<iframe src="https://manoa-textswap.vercel.app/" width="100%" height="600px" frameborder="0" title="TextSwap"></iframe>
 
 <br/>
 

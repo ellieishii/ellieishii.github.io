@@ -10,7 +10,7 @@
   --tf-beige4: #f4e2e2;
   --tf-beige5: #b35858;
   --bs-font-sans-serif: "Bitter", sans-serif;
-  --bs-link-color: var(--tf-beige3);
+  --bs-link-color: var(--tf-beige1);
   --tf-pill-bg: var(--tf-beige1);
   --tf-icon-fill: var(--tf-beige1);
   --tf-icon-hover: var(--tf-beige5);
@@ -45,6 +45,10 @@ a {
   .navbar-brand-mobile {
     display: inline;
   }
+}
+
+h1 {
+  font-weight: 600;
 }
 
 h2 {

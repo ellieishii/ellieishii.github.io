@@ -12,12 +12,13 @@ labels:
 summary: "A platform for students to buy, sell, and trade textbooks affordably."
 ---
 
-<br/><br/>
+<br/>
+
 ## Affordable Textbooks for UH Students
 
-In the University of Hawaii community, students often face challenges in acquiring textbooks affordably and efficiently. [TextSwap](https://manoa-textswap.vercel.app/) was developed as a solution to address these challenges by providing an efficient and user-friendly platform for students to buy, sell, and trade textbooks with one another.
+<img width="300px" class="rounded float-start pe-4" src="../img/TextSwapLanding.png">
 
-<img width="350px" class="rounded float-start pe-4" src="../img/TextSwapLanding.png">
+In the University of Hawaii community, students often face challenges in acquiring textbooks affordably and efficiently. [TextSwap](https://manoa-textswap.vercel.app/) was developed as a solution to address these challenges by providing an efficient and user-friendly platform for students to buy, sell, and trade textbooks with one another.
 
 Our goal was to create a user-friendly, responsive, and visually appealing website that empowers students to connect and facilitate textbook exchanges seamlessly. The project utilized modern web technologies, including Next.js, React, Bootstrap 5, and GitHub Hosting, to build an interactive and intuitive platform. The result was [TextSwap](https://manoa-textswap.vercel.app/), a reliable and powerful tool designed to enhance student collaboration and reduce textbook expenses.
 
@@ -55,6 +56,9 @@ My primary responsibilities involved ensuring seamless functionality and integra
 
 TextSwap addresses a critical need within the UH Manoa community by providing a cost-effective, accessible, and collaborative solution for textbook exchanges. The platform not only fosters sustainability through reuse but also builds a sense of connection among students by enabling peer-to-peer interactions. Reflecting on the project, I learned the importance of balancing aesthetics with functionality to ensure a platform’s usability. While technical functionality is essential, I realized that a visually appealing and user-friendly design is equally crucial to keeping users engaged and encouraging them to use the platform effectively. This project demonstrated how thoughtful design and modern technology can address real-world problems while making a meaningful impact on a specific community. I aim to apply these lessons to future projects, focusing on user-centered design, collaboration, and continuous improvement.
 
+## TextSwap Preview 
+
+<iframe src="https://manoa-textswap.vercel.app/" width="80%" height="500px" frameborder="0" title="TextSwap"></iframe>
 
 <br/>
 

@@ -6,7 +6,7 @@
 :root {
   --tf-beige1: #ba9999;
   --tf-beige2: #edd8d8;
-  --tf-beige3: #deb4b4;
+  --tf-beige3: #e8babb;
   --tf-beige4: #f4e2e2;
   --tf-beige5: #b35858
   --bs-font-sans-serif: "Bitter", sans-serif;
@@ -17,11 +17,6 @@
   --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--tf-beige4);
   --tf-projects-bg-color: var(--tf-beige2);
-}
-
-h2,h3,h4,h5 {
-  color: var(--tf-beige1);
-  font-family: var(--bs-font-sans-serif);
 }
 
 /* Format social media icons */
@@ -57,9 +52,3 @@ a {
   background-color: var(--tf-beige2);
   border-top: none;
 }
-
-.navbae, .footer {
-  background-color: var(--tf-beige1);
-  font-family: var(--bs-font-sans-serif);
-}
-

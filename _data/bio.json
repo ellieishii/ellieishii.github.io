@@ -6,7 +6,7 @@
     "email": "elliei@hawaii.edu",
     "phone": "",
     "website": "https://ellieishii.github.io",
-    "summary": "I am studying for a B.A. in Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026. As of now, I am working towards getting into the Web Developement field.",
+    "summary": "I am studying for a B.A. in Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026. As of now, I am working towards getting into the Web Development field.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "ellieishii", "url": "http://github.com/ellieishii" },
@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "Javascript"]
+      "keywords": [ "C", "Java", "Javascript", "TypeScript", "Python"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Git/GitHub", "VSCode", "Android Studio", "HTML", "CSS", "Node.js", "pgAdmin", "PostgreSQL", "Firebase", "Cloudinary", "Vercel" ]
     }
   ],
   "education": [
@@ -43,25 +43,25 @@
   ],
   "activities": [
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Haumāna Exchange",
+      "website": "https://www.haumanaexchange.org/",
+      "position": "Web & Mobile App Developer",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "A platform for discovering and supporting student-owned businesses and services at UH Manoa",
       "highlights": [
-        ""
+        "Focused on designing and enhancing the user interface (UI) to ensure a visually engaging and user-friendly experience for the Haumāna Exchange platform"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "HEX: Hawaii Annual Coding Challenge",
+      "website": "https://uhspace.org/",
+      "position": "Web Developer",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "a student-led platform at UH Manoa that provides a modernized and interactive interface for accessing, analyzing, and visualizing Hawaii's open data, empowering users to gain insights and collaborate on data-driven solutions.",
       "highlights": [
-        ""
+        "Designed and improved the user interface (UI) to create a visually engaging and intuitive experience for users accessing Hawaii’s open data on the HEX (UHSpace Data Hub) platform."
       ]
     }
   ],

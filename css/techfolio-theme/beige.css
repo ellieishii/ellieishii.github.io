@@ -4,14 +4,23 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
+  --tf-beige1: #ba9999;
+  --tf-beige2: #edd8d8;
+  --tf-beige3: #deb4b4;
+  --tf-beige4: #f4e2e2;
+  --tf-beige5: #b35858
   --bs-font-sans-serif: "Bitter", sans-serif;
-  --bs-link-color: #deb4b4;
-  --tf-pill-bg:  #edd8d8;
-  --tf-icon-fill: #d17c7c;
-  --tf-icon-hover: #b35858;
+  --bs-link-color: var(--tf-beige3);
+  --tf-pill-bg: var(--tf-beige2);
+  --tf-icon-fill: var(--tf-beige1);
+  --tf-icon-hover: var(--tf-beige5);
   --tf-page-bg-color: var(--bs-white);
-  --tf-footer-bg-color: #f4e2e2;
-  --tf-projects-bg-color: #edd8d8;
+  --tf-footer-bg-color: var(--tf-beige4);
+  --tf-projects-bg-color: var(--tf-beige2);
+}
+
+h1,h2,h3,h4,h5 {
+  color: var(--tf-beige1);
 }
 
 /* Format social media icons */
@@ -44,6 +53,11 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: #edd8d8;
+  background-color: var(--tf-beige2);
   border-top: none;
 }
+
+header,footer {
+  background-color: var(--tf-beige1);
+}
+

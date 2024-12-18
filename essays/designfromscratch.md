@@ -29,7 +29,7 @@ As I gained more hands-on experience as a web developer, I realized the importan
 
 **Raw HTML and CSS** 
 
-<img width="400px" class="rounded float-start pe-4" src="../img/rawhtmlandcss1.png"> <img width="400px" class="rounded float-start pe-4" src="../img/rawhtmlandcss2.png">
+<img width="400px" class="float-start pe-4" src="../img/rawhtmlandcss1.png"> <img width="400px" class="float-start pe-4" src="../img/rawhtmlandcss2.png">
 
 <br><br><br>
 
@@ -39,7 +39,7 @@ As I gained more hands-on experience as a web developer, I realized the importan
 
 **Bootstrap 5**
 
-<img width="400px" class="rounded float-start pe-4" src="../img/ui1.png"> <img width="400px" class="rounded float-start pe-4" src="../img/ui2.png">
+<img width="400px" class="float-start pe-4" src="../img/ui1.png"> <img width="400px" class="float-start pe-4" src="../img/ui2.png">
 
 <br><br>
 

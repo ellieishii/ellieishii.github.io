@@ -4,7 +4,7 @@ type: project
 image: img/financialcalculator.png
 title: "Financial Calculator"
 date: 2024-01-20
-published: true
+published: false
 labels:
   - Calculator
   - Algorithm

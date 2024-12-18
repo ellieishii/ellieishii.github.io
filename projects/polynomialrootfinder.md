@@ -4,7 +4,7 @@ type: project
 image: img/desmos.png
 title: "Polynomial Solver and Root Finder"
 date: 2023-08-01
-published: true
+published: false
 labels:
   - Calculator
   - Technology

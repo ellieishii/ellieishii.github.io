@@ -11,7 +11,7 @@
   --tf-beige5: #b35858;
   --bs-font-sans-serif: "Bitter", sans-serif;
   --bs-link-color: var(--tf-beige3);
-  --tf-pill-bg: var(--tf-beige2);
+  --tf-pill-bg: var(--tf-beige1);
   --tf-icon-fill: var(--tf-beige1);
   --tf-icon-hover: var(--tf-beige5);
   --tf-page-bg-color: var(--bs-white);
@@ -45,6 +45,10 @@ a {
   .navbar-brand-mobile {
     display: inline;
   }
+}
+
+h2 {
+  color: var(--tf-beige1);
 }
 
 /* Simplify the styling of the bottom of Essay cards. */

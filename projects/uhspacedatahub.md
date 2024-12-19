@@ -20,7 +20,7 @@ summary: "Unlocking Hawaii's Solutions for Personalized Analytics and Collaborat
 
 [The Hawaii Annual Coding Challenge (HACC)](https://hacc.hawaii.gov/) is an annual hackathon hosted by the state of Hawaii to bring together developers, designers, and innovators to address pressing local issues through technology. The event fosters community engagement, collaboration, and innovation, enabling participants to create impactful solutions to real-world challenges. HACC serves as a platform for individuals to contribute to Hawaii’s growth by leveraging their technical skills and creativity.
 
-As part of HACC 2024, our team, [Hex / Haumana Exchange](https://www.haumanaexchange.org/), developed the [UHSpace Data Hub](https://uhspace.org/) website, a modernized and enhanced version of the Hawaii government’s open data website. The original website, [Hawaii Open Data](https://opendata.hawaii.gov/), was functional but lacked interactivity and user-friendly features. Our mission was to create a platform that makes uploading, analyzing, and visualizing open data seamless and engaging while adding advanced tools for enhanced usability.
+As part of HACC 2024, our team, [HEX / Haumana Exchange](https://www.haumanaexchange.org/), developed the [UHSpace Data Hub](https://uhspace.org/) website, a modernized and enhanced version of the Hawaii government’s open data website. The original website, [Hawaii Open Data](https://opendata.hawaii.gov/), was functional but lacked interactivity and user-friendly features. Our mission was to create a platform that makes uploading, analyzing, and visualizing open data seamless and engaging while adding advanced tools for enhanced usability.
 
 
 ## Revolutionizing Open Data: Our Vision in Action

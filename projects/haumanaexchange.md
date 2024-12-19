@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/haumanalogo.png
-title: "Haumana Exchange"
+title: "Haumāna Exchange"
 date: 2024
 published: true
 labels:
@@ -23,9 +23,7 @@ summary: "A student-led platform at UH Manoa that supports student entrepreneurs
 
 ## Driving User Experience: My Role in Haumāna Exchange
 
-As a part of the Haumāna Exchange team, I am currently responsible for the user interface (UI) design and development. My focus is to ensure that the platform provides a visually engaging and user-friendly experience for students interacting with the site. I am working to make the website intuitive and accessible across devices, ensuring that users can easily navigate and engage with the platform.
-
-In the coming months, I will also be stepping into the role of mobile app developer for Haumāna Exchange, where I will help extend the platform to mobile devices, enhancing accessibility and usability on smartphones and tablets. This will enable student entrepreneurs to interact with the platform more flexibly and efficiently. While my primary work involves improving the current web platform, I will continue collaborating with the team to improve UI and UX, ensuring that the platform remains fresh, modern, and user-centered.
+As a part of the Haumāna Exchange team, I am currently responsible for the user interface (UI) design and development. My focus is to ensure that the platform provides a visually engaging and user-friendly experience for students interacting with the site. I am working to make the website intuitive and accessible across devices, ensuring that users can easily navigate and engage with the platform. In the coming months, I will also be stepping into the role of mobile app developer for Haumāna Exchange, where I will help extend the platform to mobile devices, enhancing accessibility and usability on smartphones and tablets. This will enable student entrepreneurs to interact with the platform more flexibly and efficiently. While my primary work involves improving the current web platform, I will continue collaborating with the team to improve UI and UX, ensuring that the platform remains fresh, modern, and user-centered.
 
 
 ## Gaining Hands-On Experience: What Haumāna Exchange Taught Me

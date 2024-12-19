@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/haumana.png
+image: img/haumanalogo.png
 title: "Haumana Exchange"
 date: 2024
 published: true
@@ -30,7 +30,7 @@ In the coming months, I will also be stepping into the role of mobile app develo
 
 ## Gaining Hands-On Experience: What Haumāna Exchange Taught Me
 
-Working on Haumāna Exchange has taught me invaluable lessons in both web development and the intersection of technology with entrepreneurship. As a UI developer, I learned how crucial it is to balance aesthetics and functionality to create an engaging user experience. I’ve gained hands-on experience in using modern web technologies and frameworks like React and Bootstrap, which has broadened my technical skills.
+Working on Haumāna Exchange has taught me valuable lessons in both web development and the intersection of technology with entrepreneurship. As a UI developer, I learned how crucial it is to balance aesthetics and functionality to create an engaging user experience. I’ve gained hands-on experience in using modern web technologies and frameworks like React and Bootstrap, which has broadened my technical skills.
 
 Additionally, this project has given me insight into the business side of development, especially as it pertains to supporting student entrepreneurs. I’ve learned about the importance of collaboration and how technology can support business growth. This experience has also shown me the value of continuous improvement in design and functionality—how iterative changes, even small ones, can significantly enhance the user experience. As I move forward into mobile app development, I’m excited to further develop my technical skills and gain deeper insights into how mobile design can complement the platform's web experience.
 
